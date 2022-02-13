@@ -21,10 +21,7 @@ public class Testing {
 		{
 			System.out.println("Testing has Passed");
 		}
-		else
-		{
-			System.out.println("Testing has Passed");
-		}
+		
 		driver.close();
 	}
 
